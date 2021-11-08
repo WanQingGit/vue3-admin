@@ -114,8 +114,5 @@ newbee-mall 项目是一套电商系统，基于 Spring Boot 2.X 和 Vue 以及�
 
 ## 捐助
 
-全部捐赠，将用于后续的开源项目和服务器的开销
 
-| 支付宝 | 微信支付 | QQ钱包 | 
-| :------: | :------: |  :------: | 
 | <img width="200" height="200"  src="https://s.yezgea02.com/1617009373128/4771617009362_.pic.jpg"> | <img width="200" height="200" src="https://s.yezgea02.com/1617009369561/4761617009362_.pic.jpg"> | <img width="200" height="200" src="https://s.yezgea02.com/1617009376339/4781617009362_.pic.jpg"> | 
